@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798830626755",
+    "project_id": "flutter-food-ordering-pizzato",
+    "storage_bucket": "flutter-food-ordering-pizzato.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798830626755:android:97746605122adf3b345f76",
+        "android_client_info": {
+          "package_name": "com.example.pizzadeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798830626755-87b4841husd2r6rbcsuj0pevvfmcba0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZKL31cQhc4f36P0PcuCLVm5Sfj0kkGiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798830626755-87b4841husd2r6rbcsuj0pevvfmcba0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
